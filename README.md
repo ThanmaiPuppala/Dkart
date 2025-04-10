@@ -1,3 +1,5 @@
+#DKart
+This is a basic ecommerce shopping website by using redux toolkit for practice
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
