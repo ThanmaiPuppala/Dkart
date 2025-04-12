@@ -8,6 +8,7 @@ body {
   font-family: 'Amazon Ember', Arial, sans-serif;
   color: #333;
   line-height: 1.6;
+  background-color: black;
   /*display: flex;
   justify-content: center;
   align-items: center;*/
@@ -53,7 +54,7 @@ nav a:hover {
 }
 
 .product-card {
-  background-color: white;
+  background-color:gray;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   padding: 1rem;
