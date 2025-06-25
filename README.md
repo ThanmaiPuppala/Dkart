@@ -16,3 +16,4 @@ If you are developing a production application, we recommend using TypeScript an
 ## OverView
  - This is  a practice to sharpen my skills on redux tool kit. 
  - In this project I used react,redux toolkit and css to develop this Dkart .
+ - I crafted how to add items
